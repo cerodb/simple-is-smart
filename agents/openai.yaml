@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simple is Smart"
+  short_description: "Revisa sobreingeniería, foco y esfuerzo con criterio 80/20"
+  default_prompt: "Usá $simple-is-smart para revisar esta propuesta: qué conservar, qué recortar y cuál es el siguiente paso mínimo."
